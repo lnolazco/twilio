@@ -1,0 +1,11 @@
+.myGrid {
+    width: 600px;
+    height: 250px;
+  }
+.myGridDlg {
+    width: 550px;
+    height: 150px;
+  }
+.navbar{
+  background-color: lightsteelblue;
+}
