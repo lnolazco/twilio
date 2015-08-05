@@ -27,7 +27,7 @@ Features:
 ### Installation:
 
 ```bash
-git clone ssh://55c084480c1e66a73c000036@twilio-nolazco.rhcloud.com/~/git/twilio.git/
+git clone https://github.com/lnolazco/twilio.git
 
 npm install
 
