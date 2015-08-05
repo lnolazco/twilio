@@ -26,21 +26,21 @@ Features:
 
 ### Installation:
 
-'''bach
+```bash
 git clone ssh://55c084480c1e66a73c000036@twilio-nolazco.rhcloud.com/~/git/twilio.git/
 
 npm install
 
 bower install
-'''
+```
 
 ### Starts application
 
 Starts mongodb
 then starts the server:
-'''bach
+```bash
 node server.js
-'''
+```
 
 Enter to the browser:
 http://localhost:3000/
